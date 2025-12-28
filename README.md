@@ -1,4 +1,14 @@
-## Hi there 👋
+### Hi there, I'm Daksh! 👋
+
+I'm a 1st Semester Computer Science Engineering student passionate about web development and automation.
+
+- 🔭 I’m currently working on **The Growth Stack** (Online Course Platform)
+- 🌱 I’m currently learning **JavaScript & Advanced CSS**
+- 👯 I’m looking to collaborate on **Frontend Projects**
+- ⚡ Fun fact: I love fitness and teaching science!
+
+### 🛠️ Languages and Tools
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <!--
 **dakshdubele589-commits/dakshdubele589-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
